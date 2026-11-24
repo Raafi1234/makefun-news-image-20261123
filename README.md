@@ -1,3 +1,21 @@
+# makefun-news-image-20261123
+
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Raafi1234/makefun-news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Raafi1234/makefun-news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+Entry for make.fun **news-image-20261123**: one image that sums up the world's news of Monday, 23 November 2026.
+
+## Run it
+
+```sh
+make run
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=waxf8q9w&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
+
 # The World in One Day — Monday, 23 November 2026
 
 An entry for the make.fun competition `news-image-20261123`: one image
